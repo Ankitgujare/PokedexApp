@@ -365,7 +365,9 @@ If you encounter any issues, please report them in the [Issues](https://github.c
 ## 📸 Screenshots
 
 > Add screenshots of your app here
-![Image Alt](https://github.com/Ankitgujare/PokedexApp/blob/8fffd27bd54f1004b5b41d9ba362f06b82ee2ad7/WhatsApp%20Video%202025-11-14%20at%208.02.53%20PM.mp4)
+![Image Alt](https://github.com/Ankitgujare/PokedexApp/blob/f620b6d7f4f6f17c210d5cefb13d42d4c1f61f0e/WhatsApp%20Image%202025-11-14%20at%208.10.46%20PM%20(1).jpeg)
+![Image Alt](https://github.com/Ankitgujare/PokedexApp/blob/f620b6d7f4f6f17c210d5cefb13d42d4c1f61f0e/WhatsApp%20Image%202025-11-14%20at%208.10.46%20PM.jpeg)
+![Image Alt](https://github.com/Ankitgujare/PokedexApp/blob/f620b6d7f4f6f17c210d5cefb13d42d4c1f61f0e/WhatsApp%20Image%202025-11-14%20at%208.10.47%20PM.jpeg)
 ---
 
-**Made with ❤️ using Jetpack Compose**
+**Made by Ankit with ❤️ using Jetpack Compose**

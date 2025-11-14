@@ -365,7 +365,7 @@ If you encounter any issues, please report them in the [Issues](https://github.c
 ## 📸 Screenshots
 
 > Add screenshots of your app here
-
+![Image Alt](https://github.com/Ankitgujare/PokedexApp/blob/8fffd27bd54f1004b5b41d9ba362f06b82ee2ad7/WhatsApp%20Video%202025-11-14%20at%208.02.53%20PM.mp4)
 ---
 
 **Made with ❤️ using Jetpack Compose**
